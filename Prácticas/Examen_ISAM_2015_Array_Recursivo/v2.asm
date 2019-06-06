@@ -23,8 +23,7 @@
 	li $a1, 5	# Le pasamos la longitud
 	
 	jal imprimir
-	
-	
+		
 	li $v0, 10
 	syscall
 	
